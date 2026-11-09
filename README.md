@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Gohakushi&descAlignY=64&textBg=false&animation=fadeIn&desc=Computer%20Science%20|%20Animation%20%20|%20%20Taiwan%20Student"/>
 <h1 align="center">Hi!, I'm Gohakushi</h1>
-I am a second-year undergraduate student at National Yang Ming Chiao Tung University, with a major in the Department of Information Management and Finance, a minor in the Department of Applied Mathematics, and a cross-disciplinary program in Computer Science. I also go by the name Puchi.
+I am a third-year undergraduate student at National Yang Ming Chiao Tung University, with a major in the Department of Information Management and Finance, a minor in the Department of Applied Mathematics, and a cross-disciplinary program in Computer Science. I also go by the name Puchi.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/puchi1118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="puchi1118" height="30" width="40" /></a>
